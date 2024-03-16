@@ -1,4 +1,4 @@
-![logo](https://github.com/umamah333/umamah333/blob/main/Brown%20Minimalist%20Actress%20YouTube%20Banner.png)
+![logo](https://github.com/umamah333/umamah333/blob/main/Brown%20Minimalist%20Actress%20YouTube%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I am UMAMAH USMAN</h1>
 <h3 align="center">Data Scientist| Enthusiastic python Coder</h3>
 
