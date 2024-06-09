@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I am UMAMAH USMAN</h1>
 <h3 align="center">Data Scientist| Enthusiastic python Coder</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952exea5mob6h3xygvbgmy4glfb2m2yr9uaggl56txb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
-- 🔭 I am currently working on [Final Year Project]([https://www.kaggle.com/competitions/spaceship-titanic/team](https://github.com/umamah333/Enhanced-MRI-Analysis-for-Brain-Tumour-Classification-using-Machine-Learning.git ))
+- 🔭 I am currently working on [Final Year Project]((https://github.com/umamah333/Enhanced-MRI-Analysis-for-Brain-Tumour-Classification-using-Machine-Learning.git ))
 
 - 🌱 I am currently learning **Data Science**
 
